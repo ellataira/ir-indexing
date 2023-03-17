@@ -1,4 +1,9 @@
-# HW2: Indexing, Term Positions 
+# HW2: Indexing
+
+The objective of this project is to implement an indexer, used in place of the Elasticsearch indexer. Then, generate the index from a set of documents and search the index to return documents relevant to a list of queries. 
+
+This project is a continuation of [ir-retrieval-models](https://github.com/ellataira/ir-retrieval-models)
+. 
 
 ## Task1: Tokenizing
 The file, `document.py`, contains all methods used to tokenize and given document. The method `tokenize()` uses 
