@@ -1,4 +1,4 @@
-# HW2: Indexing
+Indexing
 
 The objective of this project is to implement an indexer, used in place of the Elasticsearch indexer. Then, generate the index from a set of documents and search the index to return documents relevant to a list of queries. 
 
